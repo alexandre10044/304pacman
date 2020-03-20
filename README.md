@@ -6,13 +6,13 @@ Pathfinding is an extremely common problem in video game programming. It’s why
 
 file    file describing the board, using the following characters:
 
-‘0’ for an empty square,
+- ‘0’ for an empty square,
 
-‘1’ for a wall,
+- ‘1’ for a wall,
 
-‘F’ for the ghost’s position,
+- ‘F’ for the ghost’s position,
 
-‘P’ for Pacman’s position.
+- ‘P’ for Pacman’s position.
 
 c1      character to display for a wall
 
